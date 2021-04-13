@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DragLinearLayoutExample</string>
+    <string name="geeks_for_geeks"> LOL Nigga 🤙🏽</string>
+    <string name="dsa_course">I am learning</string>
+    <string name="this_tutorial_uses_a_third_party_library_to_drag_linearlayouts">This tutorial uses a third party library to drag LinearLayouts</string>
+    <string name="please_drag_and_drop_me_somewhere">Please Drag and Drop Me Somewhere</string>
+    <string name="ever_thought_how_dragging_songs_in_an_application_playlist_works">Ever thought how dragging songs in an application playlist works!</string>
+    <string name="image">Image</string>
+</resources>
